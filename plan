@@ -1,0 +1,7 @@
+/* 
+1) set up Vite configuration
+import path from "path"; - comes from types/node that we installed
+2. Ts config - convenient way for Imports
+3. Tailwind extensions:Tailwind Documentation, Tailwind CSS IntelliSense
+4. Install Tailwind for Vite and set up tailwind.config.cjs with color, and e.t
+*/
